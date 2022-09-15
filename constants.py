@@ -11,3 +11,5 @@ MODEL_PATHS = {
     "dev": MODEL_PATH_DEV,
     "pro": MODEL_PATH_PRO
 }
+
+LOCAL_PORT = 8000
